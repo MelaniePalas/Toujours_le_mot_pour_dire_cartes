@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Toujours le mot pour dire" />
+              <option name="title_text" value="Toujours_le_mot_pour_dire" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
